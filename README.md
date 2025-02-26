@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Oscar006-HUB
-- 👀 I’m interested in programming and innovation
-- 🌱 I’m currently learning  to create my own creation.
-- 💞️ I’m looking to collaborate with others with the same vision path
-- 📫 How to reach me  IG, WHATSAPP AND TELEGRAM
+# INTRODUCING THE VISIONARY BEHIND RESSIANANCE
 
+## Where Technology Meets Creativity & Determination
 
+**Meet the unstoppable force behind Ressianance** - a Computer Engineering student at KNUST Ghana with an unwavering commitment to turning dreams into reality.
 
-<!---
-Oscar006-HUB/Oscar006-HUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What Sets Me Apart:
+- **Relentless Determination**: When I set a goal, I pursue it with unmatched persistence
+- **Creative Designer**: Crafting compelling birthday cards, advertisements, t-shirts and more
+- **Tech Enthusiast**: Passionate about the limitless possibilities of technology and AI
+- **Visionary Entrepreneur**: Building "Ressianance" - a platform representing rebirth and transformation
+
+Currently developing my website while pursuing my Computer Engineering degree, I'm laying the foundation for my future empire at the intersection of AI, computing, and fashion design.
+
+**Ressianance isn't just a brand - it's the beginning of a revolution.**
+
+Ready to witness the birth of the next tech-fashion powerhouse from Ghana to the world? Connect with me and be part of this journey from the ground up.
+
+*From concept to creation, from determination to destination - this is only the beginning.*
