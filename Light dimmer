@@ -1,0 +1,33 @@
+// === Configuration ===
+const int potPin = 34;    // Analog input from potentiometer
+const int ledPin = 25;    // PWM output to LED
+const int pwmChannel = 0; // PWM channel (0 to 15)
+const int freq = 5000;    // PWM frequency in Hz
+const int resolution = 8; // PWM resolution in bits (1-16)
+
+// === Variables ===
+int potValue = 0;         // 0 to 4095 from analogRead
+int dutyCycle = 0;        // 0 to 255 for 8-bit PWM
+
+void setup() {
+  // Initialize LED PWM
+  ledcSetup(pwmChannel, freq, resolution);
+  ledcAttachPin(ledPin, pwmChannel);
+
+  // Optional: Initialize Serial Monitor
+  Serial.begin(115200);
+}
+
+void loop() {
+  potValue = analogRead(potPin);                      // Read potentiometer value
+  dutyCycle = map(potValue, 0, 4095, 0, 255);         // Convert to 8-bit
+  ledcWrite(pwmChannel, dutyCycle);                  // Apply to LED
+
+  // Optional: Print values to Serial Monitor
+  Serial.print("Potentiometer: ");
+  Serial.print(potValue);
+  Serial.print(" | Duty Cycle: ");
+  Serial.println(dutyCycle);
+
+  delay(10); // Small delay for stability
+}
