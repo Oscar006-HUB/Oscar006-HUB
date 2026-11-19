@@ -79,6 +79,8 @@ I build things where **hardware meets software**: ESP32 sensor networks that str
 | Project | Description | Stack |
 |---|---|---|
 | [**voltguard-pcb**](https://github.com/Oscar006-HUB/voltguard-pcb) | **VoltGuard**: a custom PCB built around the ESP32-C3 SuperMini, with custom symbols and footprints | KiCad |
+| [**kicad-projects**](https://github.com/Oscar006-HUB/kicad-projects) | Gas detector, climate relay controller, fan controller and lab circuits, plus custom component libraries | KiCad |
+| [**proteus-projects**](https://github.com/Oscar006-HUB/proteus-projects) | Circuit simulations (inductor back-EMF) | Proteus |
 
 #### 🌐 Web
 
