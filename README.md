@@ -88,6 +88,7 @@ I build things where **hardware meets software**: ESP32 sensor networks that str
 |---|---|---|
 | [**aces-website**](https://github.com/Oscar006-HUB/aces-website) | ACES KNUST website with an awards nomination system | Next.js · Django |
 | [**Willo**](https://github.com/Oscar006-HUB/Willo) | Platform for organisations to manage member contributions: dashboards, JWT auth, Stripe payments | Node · Express |
+| [**war-camp**](https://github.com/Oscar006-HUB/war-camp) | **War Camp**: a 3D war game in Godot. Battlefield cinematic with narration, then the general's camp. [▶ Play it](https://oscar006-hub.github.io/war-camp/) | Godot · GDScript |
 | [**-dungeon-crawler.**](https://github.com/Oscar006-HUB/-dungeon-crawler.) | **CRYPTDEPTH**: a neon roguelike dungeon crawler in one HTML file, playable on mobile | HTML · JS |
 | [**Northen-RIDE**](https://github.com/Oscar006-HUB/Northen-RIDE) | North Link: eco-friendly student ride-booking website | HTML · CSS |
 
